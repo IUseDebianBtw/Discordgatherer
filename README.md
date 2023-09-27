@@ -1,10 +1,3 @@
-# Discordgatherer
-
-## installation
-
-## 
-
-
 <div align="center">
 
 # Discordgatherer
@@ -12,9 +5,9 @@
 
 **Sections:**
 
-[installation](#installation) - [license](#License)
+[Rnstallation](#installation) - [License](#license)
 
-this is a discord logging script written in python
+This is a discord logging script written in python
 
 -----------------------------------
 <div align="left">
@@ -22,6 +15,26 @@ this is a discord logging script written in python
 <a id="installation">
 <h2>Installation</h2>
 </a>
+
+```$ git clone https://github.com/IUseDebianBtw/Discordgatherer.git```
+
+```$ cd Discordgatherer```
+
+```$ cd src```
+
+```$ vim bot.py```
+
+```TOKEN = 'your_bot_token'```
+
+#### Its up to your choice on how you can deploy this
+
+Basic(not recommended)
+
+```$ python3 bot.py```
+
+Systemd service
+
+```figure it out idk```
 
 
 -----------------------------------
