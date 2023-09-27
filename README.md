@@ -5,7 +5,7 @@
 
 **Sections:**
 
-[Rnstallation](#installation) - [License](#license)
+[Installation](#installation) - [License](#license)
 
 This is a discord logging script written in python
 
